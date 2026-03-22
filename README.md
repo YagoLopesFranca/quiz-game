@@ -16,7 +16,11 @@
 
 ## 📸 Preview
 
-> _Adicione aqui um screenshot do projeto funcionando_
+
+
+https://github.com/user-attachments/assets/fff381b7-1368-4d95-b74d-e61819fb4c44
+
+
 
 ---
 
